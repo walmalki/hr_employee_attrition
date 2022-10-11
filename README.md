@@ -1,4 +1,4 @@
-# HR_Employee_Attrition
+# HR Employee Attrition
 This page is an exploratory data analysis report for the dataset of the HR Employee Attrition.
 
 Checking basic information about the dataset of the HR Employee Attrition.
